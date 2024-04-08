@@ -1,7 +1,2 @@
 # analisis-mdd
-Conjunto de códigos que analizan datos .txt arrojados por SelNet para poder visualizarlos.
-Estos códigos fueron mi primer intento en programación, sé que tienen una mala praxis de sintáxis,
-errores lógicos y son rebuscados por no usar funciones para englobar ciertos procedimientos.
-Sin embargo, pueden ser un punto de partida para que inicies tu análisis de datos.
-Espero poder corregirlos con el paso del tiempo, si tienes una duda escríbeme y podemos ajustar 
-el código a tus datos. No puedo garantizar su buen funcionamiento, pero no dudes en escribirme. 
+Set of codes that parse .txt data provided by SelNet to be able to visualize them. These codes were my first attempt in programming, I know that they have a bad syntax, logical errors and are stilted for not using functions to encompass certain procedures. However, they can be a starting point for you to begin your data analysis. I hope to correct them over time, if you have a question write me and we can adjust the code to your data. I can't guarantee it will work, but feel free to write me.
